@@ -17,7 +17,7 @@ line 11 div changed to section
 
 line 13 div changed to nav
 
-like 28 div to main
+line 28 div to main
 
 line 29/36/43 div to article
 
